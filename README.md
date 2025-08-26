@@ -137,4 +137,4 @@
 ---
 
 > 🎮 让 AI 成为你在方块世界中的得力助手！  
-> 立即下载，开启智能指令新体验 👉 [Releases](https://github.com/github.com/InventorLucca/releases)
+> 立即下载，开启智能指令新体验 👉 [Releases](https://github.com/InventorLucca/Prompt_Craft/releases/)
